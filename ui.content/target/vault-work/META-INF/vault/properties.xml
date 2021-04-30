@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>demoproject - UI content</comment>
+<entry key="createdBy">M1064545</entry>
+<entry key="name">demoproject.ui.content</entry>
+<entry key="created">2021-04-30T21:08:20.475+0530</entry>
+<entry key="groupId">com.aem.demo</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">demoproject</entry>
+<entry key="description">UI content package for demoproject</entry>
+<entry key="artifactId">demoproject.ui.content</entry>
+<entry key="path">/etc/packages/demoproject/demoproject.ui.content.zip</entry>
+</properties>
