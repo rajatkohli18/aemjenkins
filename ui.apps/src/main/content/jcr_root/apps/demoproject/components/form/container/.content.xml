@@ -5,4 +5,4 @@
     jcr:primaryType="cq:Component"
     jcr:title="Form Container"
     sling:resourceSuperType="core/wcm/components/form/container/v2/container"
-    componentGroup="demoproject Form"/>
+    componentGroup="full-stack-training Form"/>

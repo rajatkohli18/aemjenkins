@@ -1,8 +1,12 @@
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\models\AuthorBooks.java
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\schedulers\SimpleScheduledTask.java
+C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\config\package-info.java
+C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\config\ObjectFactoryConfig.java
+C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\config\aemConfigImple.java
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\models\AuthorImple.java
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\filters\LoggingFilter.java
+C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\config\aemConfig.java
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\listeners\SimpleResourceListener.java
-C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\package-info.java
+C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\config\ObjectFactoryConfigBatch.java
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\servlets\SimpleServlet.java
 C:\Adobe\demo\demoproject\core\src\main\java\com\aem\demo\core\models\HelloWorldModel.java
