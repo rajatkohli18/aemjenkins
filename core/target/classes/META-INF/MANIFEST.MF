@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1620124625201
+Bnd-LastModified: 1620303954169
 Build-Jdk: 1.8.0_151
 Built-By: M1064545
 Bundle-Description: Core bundle for demoproject
