@@ -1,11 +1,14 @@
+com\aem\demo\core\models\PageInfoModelImple.class
+com\aem\demo\core\services\PageInfoServiceImple.class
 com\aem\demo\core\config\ObjectFactoryConfigBatch.class
 com\aem\demo\core\schedulers\SimpleScheduledTask$Config.class
 com\aem\demo\core\schedulers\SimpleScheduledTask.class
 com\aem\demo\core\config\aemConfigImple.class
 com\aem\demo\core\models\AuthorBooks.class
-com\aem\demo\core\config\ObjectFactoryConfig.class
 com\aem\demo\core\models\AuthorImple.class
+com\aem\demo\core\models\PageInfoModel.class
 com\aem\demo\core\config\package-info.class
+com\aem\demo\core\services\PageInfoService.class
 com\aem\demo\core\filters\LoggingFilter.class
 com\aem\demo\core\listeners\SimpleResourceListener.class
 com\aem\demo\core\config\aemConfig.class
